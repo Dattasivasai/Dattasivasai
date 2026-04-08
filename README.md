@@ -24,7 +24,8 @@
 ### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 ---
 
 ### 🤖 AI / ML
@@ -38,16 +39,20 @@
 ---
 
 ### 🌐 Web & Tools
-![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
+![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge&logo=fastapi)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 ---
 
 ## 📌 Projects
 - 🎬 Movie Genre Classification (NLP)
 - 🤖 IIIT Kottayam Chatbot (RAG-based)
 - 🌧️ Rain Detection System (IoT)
+- Aime-KDrama Website(html,css,js)
 
 ---
 
