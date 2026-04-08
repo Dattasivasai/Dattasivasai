@@ -52,13 +52,8 @@
 - 🎬 Movie Genre Classification (NLP)
 - 🤖 IIIT Kottayam Chatbot (RAG-based)
 - 🌧️ Rain Detection System (IoT)
-- Aime-KDrama Website(html,css,js)
+- 🌐 Anime-KDrama Website (HTML, CSS, JS)
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Dattasivasai&show_icons=true&theme=radical)
-
----
-
-⭐ Always learning, always building!
+⭐ Always learning, Always building!
