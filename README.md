@@ -28,10 +28,12 @@
 ---
 
 ### 🤖 AI / ML
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![LangChain](https://img.shields.io/badge/LangChain-green?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-purple?style=for-the-badge)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-blue?style=for-the-badge&logo=googlecloud)
+![OCI](https://img.shields.io/badge/OracleCloud-red?style=for-the-badge&logo=oracle)
+![RAG](https://img.shields.io/badge/RAG-black?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-grey?style=for-the-badge)
 
 ---
 
