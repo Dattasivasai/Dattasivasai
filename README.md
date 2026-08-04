@@ -19,8 +19,8 @@
 ---
 
 ## 📌 Projects
-- 🤖 AI Agent for admissions Chatbot (RAG-based)
-- 🎬 Movie Genre Classification (NLP)
+- 🤖 AI Agent for admissions Chatbot (LLM, Agent)  
+- 🎬 Movie Genre Classification (NLP, RAG)
 - 🌧️ Rain Detection System (IoT)
 - 🌐 Anime-KDrama Website (HTML, CSS, JS)
 
