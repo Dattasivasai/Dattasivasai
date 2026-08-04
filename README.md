@@ -19,8 +19,8 @@
 ---
 
 ## 📌 Projects
+- 🤖 AI Agent for admissions Chatbot (RAG-based)
 - 🎬 Movie Genre Classification (NLP)
-- 🤖 IIIT Kottayam Chatbot (RAG-based)
 - 🌧️ Rain Detection System (IoT)
 - 🌐 Anime-KDrama Website (HTML, CSS, JS)
 
