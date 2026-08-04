@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Datta Siva Sai
 
-🎓 B.Tech Student | AI/ML Developer  
-🤖 Building RAG systems, NLP apps & intelligent chatbots  
-
+🎓 B.Tech Student  
 ---
 # 💫 About Me:
 ## 👋 About Me<br><br>🔭 I'm currently working on **Backend Development, System Design, and AI-powered applications**<br><br>🤝 I'm looking to collaborate on **Open Source Python, FastAPI, and AI projects**<br><br>💬 Ask me about **Python, FastAPI, SQL, System Design, REST APIs, and AI Agents**<br><br>🌱 I'm currently learning **Distributed Systems, Docker, Kubernetes, Redis, PostgreSQL, and Cloud Technologies**<br><br>🎯 I'm interested in **Backend Engineering, AI Engineering, and Scalable System Design**<br><br>⚡ Fun fact: **I enjoy turning complex system design concepts into simple, practical implementations.**
