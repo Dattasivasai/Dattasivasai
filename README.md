@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Datta Siva Sai
 
-🎓 ECE Graduate 
+🎓 Engineering Graduate 
 ---
 # 💫 About Me:
 ##🔭 I'm currently working on **FullStack Development, System Design, and AI-powered applications**<br><br>🤝 I'm looking to collaborate on **Open Source Python, FastAPI, and AI projects**<br><br>💬 Ask me about **Python, FastAPI, SQL, System Design, REST APIs, and AI Agents**<br><br>🌱 I'm currently learning **Distributed Systems, Docker, Kubernetes, Redis, PostgreSQL, and Cloud Technologies**<br><br>🎯 I'm interested in **FullStack Engineering, AI Engineering, and System Design Engineering**<br><br>⚡ Fun fact: **I enjoy turning complex system design concepts into simple, practical implementations.**
